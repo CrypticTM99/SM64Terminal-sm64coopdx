@@ -41,3 +41,12 @@ local enemies = {
     {x = 820, y = 260, w = 16, h = 16, vx = -1.1, alive = true},
 
 -- Need to make sure to add these and also work on the math for the silly 2d game and minigames
+
+- Need to fix the bug with the players inside the lobby able to bring up the same terminal, causing control errors
+- Working on a bugfix for the initial load in for the terminal, some mentioned it was causing lag
+- Working on adding buttons instead of long commands for the cheat stuff
+- Work on a bugfix that seems to be a edge case? Havent been able to figure it out or replicate yet
+- Work on a fix for the height on the baseball minigame
+  - Can easily just set the limit on that one
+- Work on a better visual overhaul for the boo minigame
+- Work on some more of the font/text for better readability*
